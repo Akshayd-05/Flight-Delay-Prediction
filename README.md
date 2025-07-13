@@ -35,3 +35,40 @@ This project leverages machine learning techniques to predict flight delays usin
   - Data Analysis: Pandas, NumPy
   - Visualization: Matplotlib, Seaborn
   - Modeling: Scikit-learn, XGBoost, Statsmodels
+
+## Flight Delay Dashboard
+![Flight Delay Dashboard Screenshot](Flight_Delay_SS.png)
+
+## ✈️ Overview
+
+This dashboard provides a **comprehensive analysis of flight delays and cancellations** based on historical data from **2019 to 2023**.  
+It includes insights into **delay trends, cancellation rates, flight volume patterns**, and **key disruption metrics**.
+
+The dashboard is designed to help users identify **patterns, root causes, and high-impact airports or airlines** contributing to flight disruptions.
+
+---
+
+## 🔑 Key Features
+
+- **📈 Average Delay Trend Over Time**  
+  Visualizes the trend of **average arrival and departure delays** from 2019 to 2023.
+
+- **🛠️ Reasons Behind Flight Delays**  
+  Breaks down delays by categories such as **Carrier**, **Late Aircraft**, **NAS (National Aviation System)**, and **Weather**.
+
+- **🛫 Airports with Most Delays**  
+  Highlights top airports (e.g., **Pago Pago, TT**; **Santa Maria, CA**) with the highest occurrences of delays.
+
+- **🚫 Flight Cancellation Rate per Airline**  
+  Displays the **cancellation rate distribution** across major airlines like **United Airlines**, **Southwest Airlines**, and **Delta Airlines**.
+
+- **📅 Yearly Flight Volume Trend**  
+  Shows the overall trend in **flight volume from 2019 to 2023**.
+
+- **📊 Key Metrics Dashboard**  
+  - **Total Flights**: 15 Million  
+  - **Average Arrival Delay**: 4.3 minutes  
+  - **Average Departure Delay**: 10.12 minutes  
+  - **% of Delayed Flights**: 17.2%  
+  - **% of Cancelled Flights**: 2.6%  
+  - **Average Air Time**: 112.3 minutes
